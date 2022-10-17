@@ -1,0 +1,49 @@
+
+.background {
+    
+    background-image: url(images-coco/coco.jpg);
+    width: 1200px;
+    height: 600px;
+    background-size: 100%;
+}
+.logo {
+    position: relative;
+    float: right;
+    width: 50px;
+    margin-right: 20px;
+    margin-top: 140px;
+     color:white;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+button {
+    background-color: orange;
+    border-radius: 8px;
+    width: 100px;
+    height: 50px;
+    font-size: x-large;
+    color: white;
+    outline: none;
+    box-shadow: none;
+}
+
+
+.logo img
+{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    float: right;
+}
+a:link {
+    text-decoration: none;
+
+}
+
+a:visited { 
+    color:white;
+    
+}
+p {
+    margin: 30px;
+}
